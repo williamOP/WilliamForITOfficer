@@ -8,6 +8,7 @@
 # Site settings
 title: William For IT Officer
 email: 
+url: "https://williamop.github.io/WilliamForITOfficer/"
 description: > # this means to ignore newlines until "baseurl:"
     IT Officer campaign for MDSS 2016-17
 baseurl: "" # the subpath of your site, e.g. /blog
