@@ -2,6 +2,10 @@
     margin-top: 100px;
 }
 
+body {
+    background-color: #dadada !importants;
+}
+
 .jumbotron {
     background-size: cover;
     background-position: center;
