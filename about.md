@@ -22,3 +22,7 @@ The role of the IT officer involves:
 4.11.1 Is responsible for running and updating the MDSS website; <br>
 4.11.2 Assists with the AV setup at MDSS events; <br>
 4.11.3 Organises ticket sales through Eventbrite applications and websites.
+
+---
+
+![Wink]({{site.baseurl}}/assets/wink.gif){:.img-responsive .center-block}
