@@ -10,7 +10,7 @@ This website was created by me (William Hong) as part of my campaign for IT offi
 
 Nominations were open from Monday 5th September to Wednesday 7th September. <br>
 Campaigning began Thursday 8th September and finishes Wednesday 14th September. <br>
-Voting will occur from **Thursday 15th September** until **Friday 16th September**.
+Voting will occur from **Thursday 15th September** until **Saturday 17th September**.
 
 See the Facebook event page [here](https://www.facebook.com/events/205987039816717/).
 
